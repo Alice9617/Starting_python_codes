@@ -1,0 +1,12 @@
+a=1+1
+b=2-1
+c=3*4
+d=4/2
+e=4//2
+f=4%2
+print(a)
+print(b)
+print(c)
+print(d)
+print(e)
+print(f)
